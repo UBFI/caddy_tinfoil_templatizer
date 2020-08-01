@@ -1,2 +1,3 @@
 # caddy_tinfoil_templatizer
-Templatize your caddy indexes for ingestion in tinfoil
+[-]ENABLE THE BROWSE DIRECTIVE
+[-]AS SHOWN HERE ADDRESSING THE TEMPLATE DOWNLOADED FROM HERE RATHERN THAN "templatehson.tpl"  browse / ./templatejson.tpl
